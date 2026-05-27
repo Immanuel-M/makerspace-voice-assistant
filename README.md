@@ -1,6 +1,6 @@
 # Makerspace Voice Assistant
 
-A production-deployed voice AI assistant built for the MVC Makerspace — demonstrating end-to-end design, development, and deployment of a real-world generative AI workflow.
+A production-deployed voice AI assistant built for the MVC Makerspace demonstrating end-to-end design, development, and deployment of a real-world generative AI workflow.
 
 **Live Demo:** [makerspace-voice-assistant.vercel.app](https://makerspace-voice-assistant.vercel.app)
 
@@ -8,7 +8,7 @@ A production-deployed voice AI assistant built for the MVC Makerspace — demons
 
 ## Overview
 
-This project replaces a static help-request form with a fully conversational voice AI assistant. Users speak a question, receive a spoken response, and can continue the conversation naturally — all without typing. Built as a standalone embeddable widget, it integrates into any existing web application via a single iframe.
+This project replaces a static help-request form with a fully conversational voice AI assistant. Users speak a question, receive a spoken response, and can continue the conversation naturally  all without typing. Built as a standalone embeddable widget, it integrates into any existing web application via a single iframe.
 
 The project was conceived, designed, and built independently as part of my role as STEM Activities Coordinator at the MVC Makerspace, with the goal of improving accessibility for students and staff interacting with Makerspace equipment and workflows.
 
